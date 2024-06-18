@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h1>Pokemon Layout</h1>
+    <h1>Pokemon Search</h1>
   </div>
 </template>
 
