@@ -19,5 +19,10 @@ export const routerLinks: RouterLink[] = [
     path: '/counter',
     name: 'counter',
     title: 'Counter'
+  },
+  {
+    path: '/pokemons',
+    name: 'pokemons',
+    title: 'Pokemons'
   }
 ]
